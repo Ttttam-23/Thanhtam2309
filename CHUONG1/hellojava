@@ -1,0 +1,10 @@
+package HovaTenSV_App;
+
+public class HaThanhTam {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+    System.out.println("Ha Thanh Tam Học Java");
+	}
+
+}
